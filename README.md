@@ -14,14 +14,15 @@ Construo ferramentas para transformar dados dispersos em fluxos reproduzíveis, 
 
 ## Projetos em destaque
 
-| Projeto | O que demonstra | Estado |
+| Projeto | O que demonstra | Estado verificado |
 |---|---|---|
-| [Portfólio](https://github.com/beehgiovani/portifolio) | apresentação profissional, currículos e estudos de caso | publicado |
-| [Guarujá Interativo](https://github.com/beehgiovani/GuarujaInterativo) | visualização GIS e organização de dados territoriais | publicado, em transição |
-| [Pipeline cadastral](https://github.com/beehgiovani/extra--o-de-dados) | coleta e conferência de dados territoriais com Python | evolução técnica |
-| [Carteado BR](https://github.com/beehgiovani/CachetaBuraco) | Android/Kotlin, regras de jogo e modo online experimental | MVP |
-| [FarmaDelivery](https://github.com/beehgiovani/FarmaDelivery) | fluxos web, API e apoio operacional a entregas | MVP técnico |
-| [PredictMed](https://github.com/beehgiovani/predictmed) | análise de estoque e reposição para farmácias | protótipo |
+| [Pipeline de dados territoriais](https://github.com/beehgiovani/pipeline-dados-territoriais) | coleta, validação, testes e interface local de conferência com Python | recorte de Mogi concluído; outras fontes em evolução |
+| [Guarujá Interativo](https://guarujainterativo.com.br) | visualização GIS e publicação responsável de camadas territoriais | protótipo web publicado; código-fonte privado |
+| [Carteado BR](https://github.com/beehgiovani/CachetaBuraco) | Android/Kotlin, regras de jogo e modo online experimental | MVP; online ainda beta |
+| [FarmaDelivery](https://github.com/beehgiovani/FarmaDelivery) | integração entre interfaces web, API e apoio à entrega | MVP técnico; não apresentado como operação comercial validada |
+| [Lúmen](https://github.com/beehgiovani/lumen) | arquitetura Android multimódulo, desenho e visão computacional | experimento técnico pausado |
+
+O código do portfólio profissional é mantido privado; a versão publicada e os currículos ficam em [brunodevs.com](https://brunodevs.com).
 
 ## Tecnologias
 
