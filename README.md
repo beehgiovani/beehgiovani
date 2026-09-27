@@ -28,6 +28,15 @@ O código do portfólio profissional é mantido privado; a versão publicada e o
 
 `Python` · `Kotlin` · `Jetpack Compose` · `TypeScript` · `React` · `Node.js` · `PostgreSQL` · `Supabase` · `Firebase` · `Leaflet` · `GeoJSON`
 
+## Certificados selecionados
+
+- [Python para Dados: trabalhando com funções, estruturas de dados e exceções](https://cursos.alura.com.br/user/brunogp-corretor/course/python-data-science-funcoes-estruturas-dados-excecoes/certificate) — Alura · 25/04/2026 · 8 h
+- [Python: aplicando a Orientação a Objetos](https://cursos.alura.com.br/user/brunogp-corretor/course/python-aplicando-orientacao-objetos/certificate) — Alura · 25/04/2026 · 6 h
+- [API REST com Kotlin e Spring Boot: Camada de persistência](https://cursos.alura.com.br/user/brunogp-corretor/course/api-rest-kotlin-spring-boot-camada-persistencia/certificate) — Alura · 19/04/2026 · 8 h
+- [SQLite Online: executando consultas SQL](https://cursos.alura.com.br/user/brunogp-corretor/course/sqlite-online-executando-consultas-sql/certificate) — Alura · 30/04/2026 · 8 h
+- [Git e GitHub: dominando controle de versão de código](https://cursos.alura.com.br/user/brunogp-corretor/course/git-github-dominando-controle-versao-codigo/certificate) — Alura · 23/04/2026 · 8 h
+- **Power BI** — Santander Open Academy · 25/03/2026 · 8 h · ID `OA-2026-0325002402229`
+
 ## Contato e currículo
 
 - Site: [brunodevs.com](https://brunodevs.com)
